@@ -11,6 +11,8 @@ docker run --rm \
 
 docker exec -it hadoop-container bash
 ```
+### Jobs :
+
 Job 1 :
 ```	
 hdfs dfs -mkdir -p /input/job1
